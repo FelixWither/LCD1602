@@ -6,7 +6,8 @@ It also includes a **SystemMonitor** program. You can use it to display system i
 
 ## Usage
 Before using it. You should connect your LCD1602 properly on Raspberry pi, and record which pin on Raspberry Pi it connected.  
-Then, you should open LCD1602Driver.py in code editor, change the pin number of corresponding pin, and click "run" to test if it works properly.
+Then, you should open LCD1602Driver.py in code editor, change the pin number of corresponding pin, and click "run" to test if it works properly.  
+If you wish to use **SystemMonitor**, be sure you have changed the **"City"** variable in program code in order to display a correct weather information.
 
 ## Warning
 If you set the pins improperly, we won't be responsible for any damage that caused by it!  
