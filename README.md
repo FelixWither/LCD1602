@@ -1,7 +1,8 @@
-# LCD1602
+# LCD1602 Driver and Demo Program
 ## Description
 This program includes a **LCD1602Driver**, which can be used to display messages on **LCD1602** display.  
 It also includes a **SystemMonitor** program. You can use it to display system infomations on **Raspberry Pi(On Raspbian)**  
+**LCD1602 Driver can be used seperately.**
 
 ## Usage
 Before using it. You should connect your LCD1602 properly on Raspberry pi, and record which pin on Raspberry Pi it connected.  
